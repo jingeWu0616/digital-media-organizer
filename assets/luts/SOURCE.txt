@@ -1,0 +1,12 @@
+Asset: action6_dlogm_rec709.cube
+Publisher: DJI
+Purpose: DJI Osmo Action 6 D-Log M to Rec.709 conversion
+Retrieved: 2026-11-14
+Official page:
+https://www.dji.com/downloads/softwares/dji-osmo-action-6-d-log-m-to-rec-709-lut
+Download URL from official page data:
+https://terra-1-g.djicdn.com/851d20f7b9f64838a34cd02351370894/AC206%20LUT/DJI%20OSMO%20Action%206%20D-LogM%20to%20Rec.709%20LUT-11.17.cube
+SHA-256: 1972eb9b05699ba19d4aaa67aaa5fb00b46935c60ba9219183289f79e044cbb2
+Bytes: 753738
+The LUT belongs to DJI and is not included in this repository.
+No license to redistribute DJI assets is asserted by this project.

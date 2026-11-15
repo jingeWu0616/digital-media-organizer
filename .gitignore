@@ -1,0 +1,15 @@
+.venv/
+__pycache__/
+*.py[cod]
+work/
+*.sqlite*
+*.db
+*.db-*
+*.backup
+*.log
+settings.ini
+organizer_config.json
+assets/luts/*.cube
+tools/exiftool/exiftool.exe
+tools/exiftool/exiftool_files/
+*.zip

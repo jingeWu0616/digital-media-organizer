@@ -1,0 +1,9 @@
+customtkinter>=5.2,<6
+Pillow>=11,<13
+hachoir>=3.3,<4
+pymediainfo>=7,<8
+geopy>=2.4,<3
+PySide6-Essentials>=6.8,<7
+imageio-ffmpeg>=0.6,<1
+pillow-heif>=1,<2
+rawpy>=0.25,<1
